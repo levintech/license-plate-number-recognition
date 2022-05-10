@@ -1,0 +1,2 @@
+filename: Test1/cam 5.02_50_24_1.Standbild028.jpg
+filename: Test1/cam 5.03_06_32_6.Standbild006.jpg
